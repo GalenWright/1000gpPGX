@@ -1,0 +1,8 @@
+stop_gained
+frameshift_variant
+stop_lost
+inframe_insertion
+inframe_deletion
+missense_variant
+synonymous_variant
+coding_sequence_variant

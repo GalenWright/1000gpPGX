@@ -1,0 +1,8 @@
+genotypename: pgx1000GP.VEP.maf.0.01.recode.plink.LD.pruned.bed
+snpname: pgx1000GP.VEP.maf.0.01.recode.plink.LD.pruned.bim
+indivname: pgx1000GP.VEP.maf.0.01.recode.plink.LD.pruned.fam
+evecoutname: pgx1000GP.VEP.pruned.evec
+evaloutname: pgx1000GP.VEP.pruned.eval
+numoutlieriter: 0
+outlieroutname: pgx1000GP.VEP.pruned.outlier
+snpweightoutname: pgx1000GP.VEP.pruned.snpweight
